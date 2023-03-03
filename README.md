@@ -1,4 +1,4 @@
-# blockchain-electronic-urn
+# basic-blockchain-electronic-urn
 
  ### Dependências necessárias
  
